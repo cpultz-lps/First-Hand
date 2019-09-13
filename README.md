@@ -1,5 +1,5 @@
 # First-Hand
-A font family designed by employees of Lincoln Public Schools, Lincoln, Nebraska
+A font family created by employees of Lincoln Public Schools (Lincoln, Nebraska) to meet the needs of our elementary school teachers. Hopefully they will be of use to primary teachers world-wide via G SUite.
 
 Original glyphs were obtained from the SIL Open Font Licensed typefaces Questrial, Varela Round, Raleway, and Poppins typefaces. All original glyphs were modified prior to inclusion in the First Hand typefaces in one way or another. 
 
